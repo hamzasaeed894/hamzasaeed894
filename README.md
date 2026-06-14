@@ -1,5 +1,5 @@
-Hi, I'm Hamza Saeed 👋
-🎓 Computer Engineering Student at FAST-NUCES, Islamabad
+I'm Hamza Saeed 👋
+##🎓 Computer Engineering Student at FAST-NUCES, Islamabad
 ## Interests
 - Arduino
 - C++
