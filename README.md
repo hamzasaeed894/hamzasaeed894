@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Hamza Saeed 👋
+🎓 Computer Engineering Student at FAST-NUCES, Islamabad
+## Interests
+- Arduino
+- C++
+- Hardware & Embedded Systems
+## Projects
+1. Distance Measurement System
+Developed a distance measurement system using Arduino, an ultrasonic sensor, and an OLED display to measure and display distance in real time.
 
-<!--
-**hamzasaeed894/hamzasaeed894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2.Hospital Management System
+Built a Hospital Management System in C++ for managing patient records and hospital-related operations.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- C++ Programming
+- Computer Engineering Fundamentals
+- Arduino Development
